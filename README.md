@@ -21,7 +21,7 @@ build/
 bin/
 cmake-build-*/
 
-# Якщо використовуєш CMake (опційно)
+# Для CMake (опційно)
 CMakeFiles/
 Makefile
 cmake_install.cmake
